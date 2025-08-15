@@ -1,4 +1,4 @@
-# finance
+# Finance
 Mini Finance  Website Deployment(Manual)  with Vagrant 
 # Mini Finance  Website Deployment with Vagrant
 
